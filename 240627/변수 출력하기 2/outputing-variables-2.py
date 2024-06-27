@@ -1,4 +1,4 @@
 a = 3
 b = 'C'
 
-print(a, b, sep="!....!")
+print(b, a, sep="!....!")
